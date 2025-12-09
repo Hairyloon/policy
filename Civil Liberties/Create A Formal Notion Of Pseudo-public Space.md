@@ -15,3 +15,6 @@ The Pirate Party intends to define a legal notion of "pseudo-public
 space" which is space that, while privately owned, has become so woven 
 into the lives of citizens, and so essential to their daily routines, 
 that any rights that they might enjoy in a public place also apply.
+
+I suggest that the most significant private public space is Twitter, and the public need to lay claim to it.
+There may be legal routes to do this, but the difficulty with legal routes is the question of what jurisdiction applies where...
